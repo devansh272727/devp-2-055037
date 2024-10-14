@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Load the dataset
-data = pd.read_csv("C:\\Users\\Rajiv Ranjan\\Downloads\\Imports_Exports_Dataset.csv")
+data = pd.read_csv("Imports_Exports_Dataset.csv")
 
 # Title of the dashboard
 st.title("Imports & Exports Dashboard")
